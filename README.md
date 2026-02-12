@@ -124,6 +124,9 @@ M.Tech AI Final Year Project - Neuro-Symbolic Food Safety
 [60]	Chen, Xiaoguang et al. “Study on injury effect of food additive citric acid on liver tissue in mice.” Cytotechnology vol. 66,2 (2014): 275-82. doi:10.1007/s10616-013-9567-1
 
 [61]	Brothwell, Shona Lc et al. “Glycerol intoxication syndrome in young children, following the consumption of slush ice drinks.” Archives of Disease in Childhood vol. 110,8 592-596. 18 Jul. 2025. doi:10.1136/archdischild-2024-328109
+
 [62]	Ritz, Eberhard et al. “Phosphate additives in food—a health risk.” Deutsches Ärzteblatt International vol. 109,4 (2012): 49-55. doi:10.3238/arztebl.2012.0049
+
 [63]	Diao, Jun et al. “Silicon dioxide nanoparticles induced neurobehavioral impairments by disrupting microbiota-gut-brain axis.” Journal of Nanobiotechnology vol. 19,1 174. 10 Jun. 2021. doi:10.1186/s12951-021-00916-2
+
 [64]	Kurokawa, Y et al. “Toxicity and carcinogenicity of potassium bromate—a new renal carcinogen.” Environmental Health Perspectives vol. 87 (1990): 309-35. doi:10.1289/ehp.9087309
