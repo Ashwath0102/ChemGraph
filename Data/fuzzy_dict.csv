@@ -1,0 +1,314 @@
+Substance,E_number,Daily_limit_mg_kg,Category
+Benzene,,-1.0,Contaminant/Carcinogen
+Benzoic acid,E210,5.0,Preservative
+Sodium benzoate,E211,5.0,Preservative
+Potassium benzoate,E212,5.0,Preservative
+Calcium benzoate,E213,5.0,Preservative
+Ascorbic acid,E300,9999.0,Antioxidant/Vitamin
+Hydrogen peroxide,,-1.0,Bleaching Agent (Removed)
+Titanium dioxide,E171,-1.0,Color (Banned in EU)
+TiO2 nanoparticles,E171,-1.0,Nanomaterial (Genotoxic)
+Albumin,,9999.0,Protein/Food
+Fetal bovine serum,,9999.0,Biological Reagent
+Glucose,,9999.0,Nutrient
+TiO2 particles T3,E171,-1.0,Nanomaterial (Research)
+TiO2 particles T4,E171,-1.0,Nanomaterial (Research)
+Mitomycin C,,-1.0,Chemotherapy Drug
+Cyclophosphamide,,-1.0,Chemotherapy Drug
+Sorbic acid,E200,11.0,Preservative
+Salicylic acid,,-1.0,Pharmaceutical (Banned in food)
+Potassium sorbate,E202,11.0,Preservative
+Sodium nitrite,E250,0.07,Preservative
+Butylated Hydroxytoluene (BHT),E321,0.25,Antioxidant
+Nitric oxide,,-1.0,Free Radical/Signaling
+Peroxynitrite,,-1.0,Oxidant/Toxin
+8-hydroxydeoxyguanosine (8-OHdG),,-1.0,Biomarker (DNA Damage)
+N-methyl-N-nitro-N-nitrosoguanidine (MNNG),,-1.0,Carcinogen (Research)
+Butylated hydroxyanisole (BHA),E320,0.5,Antioxidant
+Deferoxamine mesylate,,-1.0,Pharmaceutical (Chelator)
+3-tert-butyl-4-hydroxyanisole,E320,0.5,Antioxidant
+2-tert-butyl-4-hydroxyanisole,E320,0.5,Antioxidant
+Sodium L-ascorbate,E301,9999.0,Antioxidant/Vitamin
+Sodium erythorbate,E316,6.0,Antioxidant
+Ethoxyquin,,-1.0,Pesticide (Suspended in EU)
+N-butyl-N-(4-hydroxybutyl)nitrosamine (BBN),,-1.0,Carcinogen (Research)
+N-methyl-N-nitrosourea (MNU),,-1.0,Carcinogen (Research)
+Tert-butylhydroquinone (TBHQ),E319,0.7,Antioxidant
+Tert-butylbenzoquinone (TBBQ),,-1.0,Metabolite/Toxin
+Angiotensin II,,-1.0,Peptide Hormone
+Cytochrome c,,9999.0,Protein
+Sodium dihydrogen citrate,E331(i),9999.0,Acidity Regulator
+Cellulose,E460,9999.0,Bulking Agent
+Carboxymethylcellulose,E466,9999.0,Thickener
+Mono- and diglycerides of fatty acids,E471,9999.0,Emulsifier
+Diglycerides of fatty acids,E472,9999.0,Emulsifier
+Lactic acid esters of mono- and diglycerides,E472b,9999.0,Emulsifier
+Citric acid esters of mono- and diglycerides,E472c,9999.0,Emulsifier
+Trisodium phosphate,E339,40.0,Emulsifier/Salt
+Carrageenan,E407,75.0,Thickener
+Lecithins,E322,9999.0,Emulsifier
+Xanthan gum,E415,9999.0,Thickener
+Guar gum,E412,9999.0,Thickener
+Pectins,E440,9999.0,Gelling Agent
+Monosodium glutamate (MSG),E621,30.0,Flavor Enhancer
+Sunset Yellow FCF,E110,4.0,Color
+Tartrazine,E102,7.5,Color
+Amaranth,E123,0.15,Color
+Carmoisine,E122,4.0,Color
+Ponceau 4R,E124,0.7,Color
+Black PN,E151,5.0,Color
+Naphthionic acid,,-1.0,Industrial Dye/Intermediate
+Amino R-salt,,-1.0,Industrial Dye/Intermediate
+Sulfanilic acid,,-1.0,Industrial Dye/Intermediate
+Pyrazolone-T (PyT),,-1.0,Industrial Dye/Intermediate
+Sulfur dioxide,E220,0.7,Preservative
+Ascorbic acid (AA),E300,9999.0,Antioxidant
+Schaeffer salt,,-1.0,Industrial Dye/Intermediate
+Sorbitol,E420,9999.0,Sweetener
+Sucrose,,9999.0,Sweetener (Sugar)
+Potassium nitrite,E249,0.07,Preservative
+Sunset Yellow,E110,4.0,Color
+Quinoline Yellow,E104,0.5,Color
+Azorubine,E122,4.0,Color
+Erythrosine,E127,0.1,Color
+Allura Red,E129,7.0,Color
+Patent Blue V,E131,5.0,Color
+Indigo Carmine,E132,5.0,Color
+Brilliant Blue FCF,E133,6.0,Color
+Green S,E142,5.0,Color
+Brown HT,E155,1.5,Color
+Brilliant Black BN,E151,5.0,Color
+Lithol Rubine BK,E180,0.1,Color (Restricted to Cheese Rind)
+Sunset Yellow FCF,E110,4.0,Color
+Metanil Yellow,E104,-1.0,Industrial Dye (Banned Adulterant)
+Quinoline Yellow,E104,-1.0,Industrial Dye (Banned Adulterant)
+Green S,E142,-1.0,Industrial Dye (Banned Adulterant)
+Malachite Green,E142,-1.0,Industrial Dye (Banned Adulterant)
+N-nitrosodiethylamine,,-1.0,Carcinogen/Contaminant
+Potassium Bromate,E924,-1.0,Flour Improver (Banned in EU/India)
+Sodium Benzoate,E211,5.0,Preservative
+Caramel Colour IV,E150d,200.0,Color
+4-Methylimidazole,,-1.0,Contaminant/Carcinogen
+Ascorbic acid (Vitamin C),E300,9999.0,Antioxidant/Vitamin
+Sodium metabisulfite (Sodium pyrosulfite),E223,0.7,Preservative/Antioxidant
+Sodium sulfite (Disodium sulfite),E221,0.7,Preservative/Antioxidant
+Borax (Sodium tetraborate),E285,0.16,Preservative (Restricted)
+Propionic acid,E280,9999.0,Preservative
+Sodium propionate,E281,9999.0,Preservative
+Calcium propionate,E282,9999.0,Preservative
+Potassium propionate,E283,9999.0,Preservative
+PA,E280,9999.0,Preservative
+Short-chain fatty acid preservative,E280,9999.0,Preservative
+Sodium hexametaphosphate,E452i,40.0,Emulsifier/Sequestrant
+Hexametaphosphate,E452i,40.0,Emulsifier/Sequestrant
+Sodium polymetaphosphate,E452i,40.0,Emulsifier/Sequestrant
+Graham's Salt,E452i,40.0,Emulsifier/Sequestrant
+E452,E452,40.0,Emulsifier/Sequestrant
+E452a,E452i,40.0,Emulsifier/Sequestrant
+Hen egg white lysozyme,E1105,9999.0,Preservative
+HEWL,E1105,9999.0,Preservative
+Potassium sorbate,E202,11.0,Preservative
+Sorbates,E200-E203,11.0,Preservative
+N-nitrosodiethylamine,,-1.0,Carcinogen/Contaminant
+NDEA,,-1.0,Carcinogen/Contaminant
+Fructose,,9999.0,Sweetener/Nutrient
+Glucose,,9999.0,Sweetener/Nutrient
+Dietary fat,,9999.0,Nutrient
+Propyl gallate,E310,1.4,Antioxidant
+PG,E310,1.4,Antioxidant
+Copper(II),,0.07,Mineral/Contaminant
+CuCl2,,0.07,Mineral/Contaminant
+Cu(II),,0.07,Mineral/Contaminant
+Cu(I),,0.07,Mineral/Contaminant
+Sucralose,E955,15.0,Sweetener
+Glycerol,E422,9999.0,Humectant/Solvent
+3-monochloropropanediol,,-1.0,Contaminant (Carcinogen)
+3-MCPD,,-1.0,Contaminant (Carcinogen)
+1'2-dichloropropanol,,-1.0,Contaminant (Genotoxic)
+1'3-dichloropropanol,,-1.0,Contaminant (Genotoxic)
+Levoglucosenone,,-1.0,Thermal Degradation Product
+1'6-dichloro-1 6-dideoxyfructose,,-1.0,Breakdown Product
+4-chloro-4-deoxygalactose,,-1.0,Breakdown Product
+Erythrosine,E127,0.1,Color (Thyroid Concern)
+Erythrosine B,E127,0.1,Color (Thyroid Concern)
+Allura Red AC,E129,7.0,Color (Azo Dye)
+Red 40,E129,7.0,Color (Azo Dye)
+Tartrazine,E102,7.5,Color (Azo Dye)
+Yellow 5,E102,7.5,Color (Azo Dye)
+Sunset Yellow FCF,E110,4.0,Color (Azo Dye)
+Yellow 6,E110,4.0,Color (Azo Dye)
+cresidine-4-sulfonic acid,,-1.0,Metabolite (E129)
+1-amino-2-naphthol-6-sulfonic acid,,-1.0,Metabolite (E110)
+Quinoline Yellow,E104,0.5,Color (Synthetic)
+Human serum albumin,,-1.0,Biological/Medical
+Warfarin,,-1.0,Drug (Anticoagulant)
+Ibuprofen,,-1.0,Drug (NSAID)
+Digitoxin,,-1.0,Drug (Cardiac Glycoside)
+1-anilinonaphthalene-8-sulfonate,,-1.0,Laboratory Chemical
+Carmoisine (Azorubine),E122,4.0,Color (Synthetic)
+Ponceau 4R,E124,0.7,Color (Synthetic)
+Mitomycin C,,-1.0,Toxin/Chemotherapy
+Hydrogen peroxide,,-1.0,Bleaching Agent (Removed)
+Cytochalasin B,,-1.0,Mycotoxin
+Colchicine,,-1.0,Toxin/Drug
+Bromodeoxyuridine,,-1.0,Mutagen/Lab Chemical
+Erythrosine Red 3,E127,0.1,Color (Restricted)
+Food Red No. 3,E127,0.1,Color (Restricted)
+FD&C Red No. 3,E127,0.1,Color (Restricted)
+Rose Bengal B,,-1.0,Color (Banned in Food)
+Red 105,,-1.0,Color (Banned in EU/US)
+Food Red No. 105,,-1.0,Color (Banned in EU/US)
+N-bis(2-hydroxypropyl)nitrosamine,,-1.0,Carcinogen/Contaminant
+DHPN,,-1.0,Carcinogen/Contaminant
+Propylthiouracil,,-1.0,Drug (Not a Food Additive)
+PTU,,-1.0,Drug (Not a Food Additive)
+3-amino-1'2'4-triazole,,-1.0,Herbicide (Banned)
+AT,,-1.0,Herbicide (Banned)
+Phenobarbital,,-1.0,Drug (Controlled Substance)
+Pb,,-1.0,Drug (Controlled Substance)
+4'4'-diaminodiphenylmethane,,-1.0,Contaminant/Carcinogen
+DDPM,,-1.0,Contaminant/Carcinogen
+2'4-diaminoanisole sulfate,,-1.0,Carcinogen (Hair Dye)
+DAAS,,-1.0,Carcinogen (Hair Dye)
+Potassium iodide,E917,0.017,Nutrient/Additive
+KI,E917,0.017,Nutrient/Additive
+Potassium perchlorate,,0.01,Contaminant (TDI)
+Polysorbate 80,E433,25.0,Emulsifier
+Deoxycholic acid,,-1.0,Bile Acid (Not authorized)
+Lipopolysaccharide,,-1.0,Toxin (Endotoxin)
+Flagellin,,-1.0,Bacterial Protein (Toxin)
+FITC-dextran 4kD,,-1.0,Research Reagent (Not Food)
+Mucin 2,,9999.0,Biomarker (Endogenous Protein)
+Lipocalin 2,,9999.0,Biomarker (Endogenous Protein)
+Acetate,E260,9999.0,Preservative/Acidity Regulator
+Propionate,E280,9999.0,Preservative
+Butyrate,,9999.0,Flavoring/Metabolite
+Clostridium cluster XI,,-1.0,Microbiome (Pathogenic Group)
+Clostridium cluster XIV,,9999.0,Microbiome (Commensal)
+Helicobacter pylori,,-1.0,Pathogen
+Campylobacter jejuni,,-1.0,Pathogen
+Salmonella spp.,,-1.0,Pathogen
+Porphyromonadaceae,,9999.0,Microbiome (Commensal)
+Bacteroides,,9999.0,Microbiome (Commensal)
+Amaranth,E123,0.15,Color (Azo Dye)
+Amaranth E123,E123,0.15,Color (Azo Dye)
+FD&C Red No. 2,E123,0.15,Color (Banned in US)
+Allura Red,E129,7.0,Color (Azo Dye)
+Allura Red AC,E129,7.0,Color (Azo Dye)
+Allura Red E129,E129,7.0,Color (Azo Dye)
+FD&C Red No. 40,E129,7.0,Color (Azo Dye)
+Hydrogen peroxide,,-1.0,Bleaching Agent (Removed)
+H2O2,,-1.0,Bleaching Agent (Removed)
+Saccharomyces cerevisiae,,9999.0,Leavening Agent/Yeast
+Carrageenan,E407,75.0,Thickener/Stabilizer
+Lambda-carrageenan,E407,75.0,Thickener/Stabilizer
+λ-carrageenan,E407,75.0,Thickener/Stabilizer
+Kappa-carrageenan,E407,75.0,Thickener/Stabilizer
+κ-carrageenan,E407,75.0,Thickener/Stabilizer
+Iota-carrageenan,E407,75.0,Thickener/Stabilizer
+ι-carrageenan,E407,75.0,Thickener/Stabilizer
+CGN,E407,75.0,Thickener/Stabilizer (Abbr)
+κ-CGN,E407,75.0,Thickener/Stabilizer (Abbr)
+ι-CGN,E407,75.0,Thickener/Stabilizer (Abbr)
+Carboxymethylcellulose,E466,9999.0,Emulsifier/Thickener
+CMC,E466,9999.0,Emulsifier/Thickener
+Sodium carboxymethylcellulose,E466,9999.0,Emulsifier/Thickener
+Dietary emulsifier,,9999.0,Broad Category
+Emulsifier,,9999.0,Broad Category
+Lecithin,E322,9999.0,Emulsifier/Antioxidant
+Faecalibacterium prausnitzii,,9999.0,Gut Bacteria (Beneficial)
+Ruminococcus,,9999.0,Gut Bacteria
+Roseburia,,9999.0,Gut Bacteria (Beneficial)
+Lachnospiraceae,,9999.0,Gut Bacteria Family
+Short-chain fatty acids,,9999.0,Metabolite/Postbiotic
+Acetate,E260/E261/E262,9999.0,Metabolite/Preservative
+Propionate,E280-E283,9999.0,Metabolite/Preservative
+Butyrate,,9999.0,Metabolite/Postbiotic
+Amino acids,,9999.0,Nutrient
+Mono- and diglycerides of fatty acids,E471,9999.0,Emulsifier
+Carrageenan,E407,75.0,Thickener/Gelling Agent
+Processed Eucheuma seaweed,E407a,75.0,Thickener/Gelling Agent
+Diphosphates,E450,40.0,Emulsifier/Stabilizer
+Pectins,E440,9999.0,Gelling Agent
+Sodium bicarbonate,E500,9999.0,Raising Agent
+Guar gum,E412,9999.0,Thickener/Stabilizer
+Gum arabic,E414,9999.0,Thickener/Stabilizer
+Xanthan gum,E415,9999.0,Thickener/Stabilizer
+Polyglycerol esters of fatty acids,E475,25.0,Emulsifier
+Locust bean gum,E410,9999.0,Thickener/Stabilizer
+Carob bean gum,E410,9999.0,Thickener/Stabilizer
+LBG,E410,9999.0,Thickener/Stabilizer
+Guar gum,E412,9999.0,Thickener/Stabilizer
+Tara gum,E417,9999.0,Thickener/Stabilizer
+Cassia gum,E427,9999.0,Thickener/Gelling Agent
+Galactomannan,,9999.0,Polysaccharide Class
+Fructo-oligosaccharides,,9999.0,Prebiotic/Fiber
+FOS,,9999.0,Prebiotic/Fiber
+Alpha-cyclodextrin,E459,9999.0,Fiber/Stabilizer
+Dextran sulfate sodium,,-1.0,Toxic Chemical (Research use)
+DSS,,-1.0,Toxic Chemical (Research use)
+αIL-10R mAb,,-1.0,Research Reagent (Antibody)
+Recombinant IL-18,,-1.0,Research Cytokine
+rIL-18,,-1.0,Research Cytokine
+Serum amyloid A,,-1.0,Biological Marker (Protein)
+SAA,,-1.0,Biological Marker (Protein)
+Lipocalin 2,,-1.0,Biological Marker (Protein)
+Lcn2,,-1.0,Biological Marker (Protein)
+Branched-chain amino acids,,9999.0,Nutrient/Amino Acid
+Butyrate,,9999.0,Metabolite/Postbiotic
+Soy lecithin,E322,9999.0,Emulsifier/Antioxidant
+Soybean oil,,9999.0,Food Ingredient
+Peanut,,9999.0,Food/Allergen
+Ipratropium bromide,,-1.0,Pharmaceutical (Bronchodilator)
+Atrovent,,-1.0,Pharmaceutical (Brand Name)
+Ipratropium bromide and salbutamol,,-1.0,Pharmaceutical (Combination Drug)
+Combivent,,-1.0,Pharmaceutical (Brand Name)
+Liposomal amphotericin B,,-1.0,Pharmaceutical (Antifungal)
+AmBisome,,-1.0,Pharmaceutical (Brand Name)
+Amphotericin B,,-1.0,Pharmaceutical (Antifungal)
+Amikacin,,-1.0,Pharmaceutical (Antibiotic)
+Ciprofloxacin,,-1.0,Pharmaceutical (Antibiotic)
+Foscarnet,,-1.0,Pharmaceutical (Antiviral)
+Doxorubicin,,-1.0,Pharmaceutical (Chemotherapy/Cytotoxic)
+Nystatin,,-1.0,Pharmaceutical (Antifungal)
+Naproxen,,-1.0,Pharmaceutical (NSAID)
+Acacia gum,E414,9999.0,Thickener/Stabilizer
+Gum arabic,E414,9999.0,Thickener/Stabilizer
+E414,E414,9999.0,Thickener/Stabilizer
+Acacia senegal gum,E414,9999.0,Thickener/Stabilizer
+Acacia seyal gum,E414,9999.0,Thickener/Stabilizer
+Octenyl succinic anhydride modified gum acacia,E423,9999.0,Emulsifier
+Short-chain fatty acids,,9999.0,Metabolite/Postbiotic
+SCFA,,9999.0,Metabolite/Postbiotic
+Carboxymethylcellulose,E466,9999.0,Emulsifier/Thickener
+Polysorbate 80,E433,25.0,Emulsifier
+Carrageenan,E407,75.0,Thickener/Stabilizer
+Glycerol monolaurate,E471,9999.0,Emulsifier
+Maltodextrin,,9999.0,Thickener/Carbohydrate
+Xanthan gum,E415,9999.0,Thickener
+Guar gum,E412,9999.0,Thickener
+Acacia gum (Gum arabic),E414,9999.0,Stabilizer/Thickener
+Agar agar,E406,9999.0,Gelling Agent
+Lecithins (Soy/Sunflower/Rapeseed),E322,9999.0,Emulsifier
+Propylene glycol alginate,E405,70.0,Emulsifier/Stabilizer
+Rhamnolipids,,9999.0,Biosurfactant
+Sophorolipids,,9999.0,Biosurfactant
+Citric acid,E330,9999.0,Acidity Regulator
+Lanthanum citrate,,-1.0,Medical/Non-food
+Glycerol,E422,9999.0,Humectant/Sweetener
+Steviol glycosides (Stevia),E960,4.0,Sweetener
+Sucralose,E955,15.0,Sweetener
+Phosphoric acid,E338,40.0,Acid/Preservative
+Sodium phosphates,E339,40.0,Emulsifier/Stabilizer
+Potassium phosphates,E340,40.0,Emulsifier/Stabilizer
+Calcium phosphates,E341,40.0,Anti-caking/Leavening
+Diphosphates,E450,40.0,Emulsifier/Stabilizer
+Triphosphates,E451,40.0,Emulsifier/Stabilizer
+Polyphosphates,E452,40.0,Emulsifier/Stabilizer
+Silicon dioxide,E551,9999.0,Anti-caking Agent
+Silicon dioxide nanoparticles,E551,-1.0,Nanomaterial (Safety Uncertain)
+Potassium bromate,E924a,-1.0,Flour Improver (Banned/Genotoxic Carcinogen)
+Methyl linolenate,,9999.0,Lipid Substrate/Flavoring
+8-Hydroxydeoxyguanosine,,-1.0,DNA Damage Product/Biomarker
+BHA,E320,0.5,Antioxidant
+BHT,E321,0.25,Antioxidant

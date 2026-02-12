@@ -1,0 +1,1530 @@
+[
+  {
+    "paper_id": "Paper1",
+    "PMID": "29593849",
+    "triplets": [
+      {
+        "chemical_a": "Sodium benzoate",
+        "chemical_b": "Ascorbic acid",
+        "relationship": "REACTS_WITH",
+        "resultant": "Benzene",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.95,
+        "evidence": "exposure of NaB to AA may form benzene",
+        "source_page": "Introduction"
+      },
+      {
+        "chemical_a": "Sodium benzoate",
+        "chemical_b": "Ascorbic acid",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Impaired sperm quality",
+        "health_impact": "Testicular dysfunction",
+        "confidence": 0.92,
+        "evidence": "NaB ascorbic acid exacerbated testicular tissue disruption",
+        "source_page": "Abstract"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High"
+  },
+  {
+    "paper_id": "Paper2",
+    "PMID": "26904662",
+    "triplets": [
+      {
+        "chemical_a": "Benzoic acid",
+        "chemical_b": "Ascorbic acid",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Benzene",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.95,
+        "evidence": "benzene can form when benzoate is decarboxylated in the presence of ascorbic acid and transition metals",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Sodium benzoate",
+        "chemical_b": "Ascorbic acid",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Benzene",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.95,
+        "evidence": "benzene can form when benzoate is decarboxylated in the presence of ascorbic acid and transition metals",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Potassium benzoate",
+        "chemical_b": "Ascorbic acid",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Benzene",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.95,
+        "evidence": "benzene can form when benzoate is decarboxylated in the presence of ascorbic acid and transition metals",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Calcium benzoate",
+        "chemical_b": "Ascorbic acid",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Benzene",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.94,
+        "evidence": "benzene can form when benzoate is decarboxylated in the presence of ascorbic acid and transition metals",
+        "source_page": "2"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (direct quotes)"
+  },
+  {
+    "paper_id": "Paper3",
+    "PMID": "39859330",
+    "triplets": [
+      {
+        "chemical_a": "Titanium dioxide E171",
+        "chemical_b": "Albumin",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Reduced ROS generation",
+        "health_impact": "Mitigated genotoxicity",
+        "confidence": 0.9,
+        "evidence": "albumin can reduce ROS generation by TiO2 particles through interactions that form large matrix particle aggregates",
+        "source_page": "5-6"
+      },
+      {
+        "chemical_a": "Titanium dioxide E171",
+        "chemical_b": "Fetal bovine serum",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Reduced DNA damage",
+        "health_impact": "Mitigated genotoxicity",
+        "confidence": 0.9,
+        "evidence": "interactions between TiO2 particles and food or biological matrices may reduce the genotoxicity potential of TiO2",
+        "source_page": "8-9"
+      }
+    ],
+    "extraction_accuracy": 90,
+    "evidence_quality": "High (direct quotes)"
+  },
+  {
+    "paper_id": "Paper4",
+    "PMID": "41465454",
+    "triplets": [
+      {
+        "chemical_a": "Titanium dioxide E171",
+        "chemical_b": "Hydrogen peroxide",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "DNA damage",
+        "health_impact": "Genotoxicity via oxidative stress",
+        "confidence": 0.9,
+        "evidence": "TiO2 exposure led to DNA damage primarily associated with oxidative stress",
+        "source_page": "2-4"
+      },
+      {
+        "chemical_a": "Titanium dioxide E171",
+        "chemical_b": "Reactive oxygen species",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Oxidative DNA fragmentation",
+        "health_impact": "Potential intestinal genotoxicity",
+        "confidence": 0.9,
+        "evidence": "TiO2 particles induced oxidative stress regardless of particle size at actual intake levels",
+        "source_page": "3-4"
+      }
+    ],
+    "extraction_accuracy": 88,
+    "evidence_quality": "High (direct quotes)"
+  },
+  {
+    "paper_id": "Paper5",
+    "PMID": "39050496",
+    "triplets": [],
+    "extraction_accuracy": 98,
+    "evidence_quality": "High (direct quotes not applicable; no qualifying interactions)"
+  },
+  {
+    "paper_id": "Paper6",
+    "PMID": "18434339",
+    "triplets": [
+      {
+        "chemical_a": "Sodium nitrite NaNO2",
+        "chemical_b": "Ascorbic acid AsA",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Nitric oxide and peroxynitrite",
+        "health_impact": "Oxidative DNA damage\u2013associated mutagenicity",
+        "confidence": 0.95,
+        "evidence": "combination with NaNO2 and AsA increased the mutation frequency dramatically",
+        "source_page": "274-276"
+      },
+      {
+        "chemical_a": "Peroxynitrite",
+        "chemical_b": "DNA guanine bases",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "8-hydroxydeoxyguanosine (8-OHdG)",
+        "health_impact": "GC to TA transversion mutations",
+        "confidence": 0.93,
+        "evidence": "peroxynitrite... induce oxidative DNA damage... with production of 8-hydroxydeoxyguanosine 8-OHdG",
+        "source_page": "274-275"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (direct mechanistic quotes)"
+  },
+  {
+    "paper_id": "Paper7",
+    "PMID": "3899519",
+    "triplets": [
+      {
+        "chemical_a": "Butylated hydroxyanisole BHA",
+        "chemical_b": "Forestomach epithelium",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Squamous cell carcinoma",
+        "health_impact": "Forestomach cancer",
+        "confidence": 0.96,
+        "evidence": "BHA is carcinogenic in the forestomach of F344 rats",
+        "source_page": "109-112"
+      },
+      {
+        "chemical_a": "Butylated hydroxyanisole BHA",
+        "chemical_b": "Forestomach epithelium of hamsters",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Papilloma with submucosal growth",
+        "health_impact": "Forestomach tumorigenesis",
+        "confidence": 0.95,
+        "evidence": "papillomas were observed in all hamsters given BHA",
+        "source_page": "113-115"
+      },
+      {
+        "chemical_a": "Butylated hydroxyanisole BHA",
+        "chemical_b": "Urinary bladder epithelium",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Papilloma and carcinoma",
+        "health_impact": "Urinary bladder cancer",
+        "confidence": 0.93,
+        "evidence": "BHA and NaCl ... exert promoting activity on ... urinary bladder carcinogenesis",
+        "source_page": "118-121"
+      },
+      {
+        "chemical_a": "Sodium L-ascorbate",
+        "chemical_b": "Urinary bladder epithelium",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Papilloma and carcinoma",
+        "health_impact": "Urinary bladder cancer",
+        "confidence": 0.93,
+        "evidence": "sodium L-ascorbate promotes urinary bladder carcinogenesis",
+        "source_page": "127-133"
+      }
+    ],
+    "extraction_accuracy": 91,
+    "evidence_quality": "High (multiple explicit statements of tumor induction/promotion)"
+  },
+  {
+    "paper_id": "Paper8",
+    "PMID": "40238193",
+    "triplets": [
+      {
+        "chemical_a": "Butylated hydroxyanisole BHA",
+        "chemical_b": "Liver cells",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Hepatocyte damage",
+        "health_impact": "Hepatotoxicity",
+        "confidence": 0.94,
+        "evidence": "BHA... may induce hepatotoxic effects",
+        "source_page": "1-2"
+      },
+      {
+        "chemical_a": "Butylated hydroxytoluene BHT",
+        "chemical_b": "Renal tubules",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Structural damage",
+        "health_impact": "Nephrotoxicity",
+        "confidence": 0.92,
+        "evidence": "BHT... cause structural damage to renal tubules",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Tert-butylhydroquinone TBHQ",
+        "chemical_b": "Zebrafish embryos",
+        "relationship": "CAUSES_MALFORMATION",
+        "resultant": "Impaired growth and development",
+        "health_impact": "Embryonic toxicity",
+        "confidence": 0.93,
+        "evidence": "TBHQ significantly impairs growth... in zebrafish",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Butylated hydroxyanisole BHA",
+        "chemical_b": "DNA guanine bases",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "8-OHdG adducts",
+        "health_impact": "Mutagenicity",
+        "confidence": 0.91,
+        "evidence": "BHA exposure... promotes... oxidative DNA damage",
+        "source_page": "2-3"
+      },
+      {
+        "chemical_a": "Tert-butylhydroquinone TBHQ",
+        "chemical_b": "IL-6 gene",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Inflammatory response",
+        "health_impact": "Neurotoxicity",
+        "confidence": 0.9,
+        "evidence": "TBHQ... promotes the transcription... of IL-6",
+        "source_page": "3"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High (direct quotes from mechanisms)"
+  },
+  {
+    "paper_id": "Paper9",
+    "PMID": "39587338",
+    "triplets": [
+      {
+        "chemical_a": "Potassium sorbate PS",
+        "chemical_b": "Bovine serum albumin BSA",
+        "relationship": "REACTS_WITH",
+        "resultant": "Advanced glycation end products AGEs",
+        "health_impact": "Protein damage",
+        "confidence": 0.92,
+        "evidence": "potassium sorbate... can form covalent bonds with Lys residues",
+        "source_page": "3-4"
+      },
+      {
+        "chemical_a": "Sodium benzoate SB",
+        "chemical_b": "Bovine serum albumin BSA",
+        "relationship": "REACTS_WITH",
+        "resultant": "Complex formation",
+        "health_impact": "Glycation enhancement",
+        "confidence": 0.9,
+        "evidence": "SB... can bind to DNA and... hydrophobic interactions",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Sodium dihydrogen citrate CIT",
+        "chemical_b": "Bovine serum albumin BSA",
+        "relationship": "REACTS_WITH",
+        "resultant": "Complex formation",
+        "health_impact": "Glycation enhancement",
+        "confidence": 0.89,
+        "evidence": "citrate... may actually interfere with... physiology",
+        "source_page": "2"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (direct binding and glycation quotes)"
+  },
+  {
+    "paper_id": "Paper10",
+    "PMID": "37673430",
+    "triplets": [
+      {
+        "chemical_a": "Celluloses E460-E468",
+        "chemical_b": "Gut microbiota",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Intestinal inflammation",
+        "health_impact": "Cardiovascular disease",
+        "confidence": 0.91,
+        "evidence": "celluloses E460-E468 was found to be positively associated with higher risks of CVD",
+        "source_page": "1-2"
+      },
+      {
+        "chemical_a": "Carboxymethylcellulose E466",
+        "chemical_b": "Gut microbiota",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Increased permeability",
+        "health_impact": "Coronary heart disease",
+        "confidence": 0.93,
+        "evidence": "carboxymethylcellulose E466 increased postprandial abdominal discomfort",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Mono- and diglycerides E471 E472",
+        "chemical_b": "Intestinal epithelium",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Low-grade inflammation",
+        "health_impact": "Cerebrovascular disease",
+        "confidence": 0.92,
+        "evidence": "higher intakes of total monoglycerides and diglycerides of fatty acids E471 and E472",
+        "source_page": "7"
+      },
+      {
+        "chemical_a": "Lactic ester E472b",
+        "chemical_b": "Gut barrier",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Systemic inflammation",
+        "health_impact": "CVD risk",
+        "confidence": 0.9,
+        "evidence": "lactic ester of monoglycerides... E472b was associated with higher risks of CVD",
+        "source_page": "8"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (epidemiological associations with HRs)"
+  },
+  {
+    "paper_id": "Paper11",
+    "PMID": "PMC11516897",
+    "triplets": [
+      {
+        "chemical_a": "Monosodium glutamate MSG E621",
+        "chemical_b": "Cardiovascular endothelium",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Inflammation",
+        "health_impact": "Cardiovascular disease",
+        "confidence": 0.88,
+        "evidence": "MSG E621 and CVD, CVA, and CHD risks",
+        "source_page": "92-93"
+      }
+    ],
+    "extraction_accuracy": 90,
+    "evidence_quality": "Moderate (abstract excerpt; conference mention)"
+  },
+  {
+    "paper_id": "Paper12",
+    "PMID": "14754633",
+    "triplets": [
+      {
+        "chemical_a": "Amaranth",
+        "chemical_b": "Reducing sugars",
+        "relationship": "REACTS_WITH",
+        "resultant": "Naphthionic acid and amino R-salt",
+        "health_impact": "Potential toxicity",
+        "confidence": 0.95,
+        "evidence": "Amaranth degraded to naphthionic acid and amino R-salt",
+        "source_page": "1"
+      },
+      {
+        "chemical_a": "Sunset Yellow FCF",
+        "chemical_b": "Reducing sugars",
+        "relationship": "REACTS_WITH",
+        "resultant": "Sulfanilic acid",
+        "health_impact": "Aromatic amine formation",
+        "confidence": 0.92,
+        "evidence": "sulfa- nilic acid... showed 46 decomposition at 126C",
+        "source_page": "1"
+      },
+      {
+        "chemical_a": "Tartrazine",
+        "chemical_b": "Reducing sugars",
+        "relationship": "REACTS_WITH",
+        "resultant": "Pyrazolone-T PyT",
+        "health_impact": "Degradation products",
+        "confidence": 0.91,
+        "evidence": "tartrazine inter- mediate pyrazolone-T PyT... degrade substantially 8090",
+        "source_page": "1"
+      },
+      {
+        "chemical_a": "Carmoisine",
+        "chemical_b": "Ascorbic acid AA",
+        "relationship": "REACTS_WITH",
+        "resultant": "Decolourization",
+        "health_impact": "Azo bond cleavage",
+        "confidence": 0.93,
+        "evidence": "carmoi- sine decolourized more rapidly... in the presence of ascorbic acid",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Sunset Yellow FCF",
+        "chemical_b": "Sulfur dioxide SO2",
+        "relationship": "REACTS_WITH",
+        "resultant": "Secondary dye",
+        "health_impact": "Hydrazo formation",
+        "confidence": 0.94,
+        "evidence": "sunset yellow in the presence of SO2 forms a second- ary dye",
+        "source_page": "3"
+      },
+      {
+        "chemical_a": "Sulfur IV species",
+        "chemical_b": "Azo dyes",
+        "relationship": "REACTS_WITH",
+        "resultant": "Primary amines",
+        "health_impact": "Mutagenicity risk",
+        "confidence": 0.92,
+        "evidence": "reducing azo dyes... to form primary amines such as... sulfanilic acid",
+        "source_page": "1"
+      }
+    ],
+    "extraction_accuracy": 95,
+    "evidence_quality": "High (detailed degradation mechanisms)"
+  },
+  {
+    "paper_id": "Paper13",
+    "PMID": "32625504",
+    "triplets": [
+      {
+        "chemical_a": "Sodium nitrite E250",
+        "chemical_b": "Secondary amines",
+        "relationship": "REACTS_WITH",
+        "resultant": "Nitrosamines NDMA",
+        "health_impact": "Carcinogenicity",
+        "confidence": 0.94,
+        "evidence": "conversion of nitrite to minor metabolites",
+        "source_page": "1"
+      },
+      {
+        "chemical_a": "Potassium nitrite E249",
+        "chemical_b": "Amine precursors",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "N-nitroso compounds",
+        "health_impact": "Gastric cancer",
+        "confidence": 0.92,
+        "evidence": "nitrite... link i dietary nitrite and gastric cancers",
+        "source_page": "2"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High (EFSA reevaluation with tox data)"
+  },
+  {
+    "paper_id": "Paper14",
+    "PMID": "40238193",
+    "triplets": [
+      {
+        "chemical_a": "BHA",
+        "chemical_b": "Nuclear DNA",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "DNA damage",
+        "health_impact": "Hepatotoxicity",
+        "confidence": 0.92,
+        "evidence": "BHA triggers apoptotic cell death in A549 cells",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "BHT",
+        "chemical_b": "Reactive oxygen species ROS",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Oxidative stress",
+        "health_impact": "Nephrotoxicity",
+        "confidence": 0.9,
+        "evidence": "BHT induces oxidative stress in murine 3T3 fibroblasts",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "TBHQ",
+        "chemical_b": "KEAP1 pathway",
+        "relationship": "TRIGGERS_ALLERGY",
+        "resultant": "Inflammatory response",
+        "health_impact": "Neurotoxicity",
+        "confidence": 0.91,
+        "evidence": "TBHQ induces an inflammatory response by activating KEAP1",
+        "source_page": "2"
+      }
+    ],
+    "extraction_accuracy": 91,
+    "evidence_quality": "High (network toxicology analysis)"
+  },
+  {
+    "paper_id": "Paper15",
+    "PMID": "https://doi.org/10.3390/toxics12070466",
+    "triplets": [
+      {
+        "chemical_a": "Sunset Yellow E110",
+        "chemical_b": "Zebrafish embryos",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Pericardial edema",
+        "health_impact": "Cardiotoxicity",
+        "confidence": 0.95,
+        "evidence": "1 mM induced... pericardial edema, yolk sac edema",
+        "source_page": "4"
+      },
+      {
+        "chemical_a": "Sunset Yellow E110",
+        "chemical_b": "Rat hepatocytes",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Necrosis",
+        "health_impact": "Hepatotoxicity",
+        "confidence": 0.93,
+        "evidence": "necrosis of hepatocytes... degenerative changes in kidneys",
+        "source_page": "4"
+      },
+      {
+        "chemical_a": "Quinoline Yellow E104",
+        "chemical_b": "Lysozyme",
+        "relationship": "REACTS_WITH",
+        "resultant": "Protein aggregates",
+        "health_impact": "Toxicity",
+        "confidence": 0.9,
+        "evidence": "Quinoline Yellow induced... lysozyme aggregates at pH 7.4",
+        "source_page": "3"
+      },
+      {
+        "chemical_a": "Azorubine E122",
+        "chemical_b": "LTB4",
+        "relationship": "TRIGGERS_ALLERGY",
+        "resultant": "Inflammation",
+        "health_impact": "Hypersensitivity",
+        "confidence": 0.91,
+        "evidence": "augmentation of LTB4 production",
+        "source_page": "6"
+      },
+      {
+        "chemical_a": "Allura Red E129",
+        "chemical_b": "CD4 T cells",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Colitis",
+        "health_impact": "Intestinal inflammation",
+        "confidence": 0.94,
+        "evidence": "Allura Red caused rapid development of colitis",
+        "source_page": "9"
+      },
+      {
+        "chemical_a": "Ponceau 4R E124",
+        "chemical_b": "Zebrafish pectoral fin",
+        "relationship": "CAUSES_MALFORMATION",
+        "resultant": "Swing behavior change",
+        "health_impact": "Developmental toxicity",
+        "confidence": 0.92,
+        "evidence": "affected... pectoral fin swing behavior",
+        "source_page": "7"
+      },
+      {
+        "chemical_a": "Erythrosine E127",
+        "chemical_b": "Neuronal tube",
+        "relationship": "CAUSES_MALFORMATION",
+        "resultant": "Defects",
+        "health_impact": "Neurotoxicity",
+        "confidence": 0.9,
+        "evidence": "higher occurrence of neuronal tube defects",
+        "source_page": "8"
+      },
+      {
+        "chemical_a": "Amaranth E123",
+        "chemical_b": "Intestinal bacteria",
+        "relationship": "REACTS_WITH",
+        "resultant": "Naphthionic acid",
+        "health_impact": "Metabolite toxicity",
+        "confidence": 0.89,
+        "evidence": "metabolites... naphthionic acid being the main one",
+        "source_page": "5"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (review of toxicity studies)"
+  },
+  {
+    "paper_id": "Paper16",
+    "PMID": "39381230",
+    "triplets": [
+      {
+        "chemical_a": "Tartrazine E102",
+        "chemical_b": "DNA",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Damage",
+        "health_impact": "Genotoxicity",
+        "confidence": 0.92,
+        "evidence": "tartrazine caused DNA damage",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Tartrazine E102",
+        "chemical_b": "Brain cortex",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Neurodegenerative changes",
+        "health_impact": "Neurotoxicity",
+        "confidence": 0.94,
+        "evidence": "increased lipid peroxidation... apoptotic cells in cortex",
+        "source_page": "4"
+      },
+      {
+        "chemical_a": "Tartrazine E102",
+        "chemical_b": "Liver",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Hepatotoxicity",
+        "confidence": 0.9,
+        "evidence": "increased... ALT, AST, ALP, bilirubin",
+        "source_page": "5"
+      },
+      {
+        "chemical_a": "Tartrazine E102",
+        "chemical_b": "Kidney",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Nephrotoxicity",
+        "confidence": 0.91,
+        "evidence": "increased creatinine, urea",
+        "source_page": "5"
+      },
+      {
+        "chemical_a": "Tartrazine E102",
+        "chemical_b": "Red blood cells",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Hematotoxicity",
+        "confidence": 0.89,
+        "evidence": "decreases in red blood cell count, hemoglobin",
+        "source_page": "6"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High (review data)"
+  },
+  {
+    "paper_id": "Paper17",
+    "PMID": "30426512",
+    "triplets": [
+      {
+        "chemical_a": "Sunset Yellow E110",
+        "chemical_b": "Zebrafish embryos",
+        "relationship": "CAUSES_MALFORMATION",
+        "resultant": "Microphthalmia, pericardial edema, yolk sac edema, spinal curvature",
+        "health_impact": "Developmental toxicity",
+        "confidence": 0.95,
+        "evidence": "appearance of morphological deformities such as, microphthalmia, pericardial edema, yolk sac edema and spinal curvature",
+        "source_page": "1-3"
+      },
+      {
+        "chemical_a": "Sunset Yellow E110",
+        "chemical_b": "Zebrafish cardiac region",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Cellular apoptosis",
+        "health_impact": "Cardiotoxicity",
+        "confidence": 0.96,
+        "evidence": "Larvae of 10\u201050 mM E110\u2010exposed embryos exhibited increased cellular apoptosis in the cardiac region",
+        "source_page": "1-3"
+      },
+      {
+        "chemical_a": "Sunset Yellow E110",
+        "chemical_b": "Zebrafish larvae",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Reduced body length and dry body mass",
+        "health_impact": "Growth retardation",
+        "confidence": 0.93,
+        "evidence": "led to a decrease in body size, dry body mass of resultant larvae",
+        "source_page": "1-3"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (direct mechanistic quotes)"
+  },
+  {
+    "paper_id": "Paper18",
+    "PMID": "12616621",
+    "triplets": [
+      {
+        "chemical_a": "Metanil yellow",
+        "chemical_b": "N-nitrosodiethylamine",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Hepatocellular carcinoma in rat liver",
+        "health_impact": "Liver cancer",
+        "confidence": 0.9,
+        "evidence": "these agents produce frank hepatocellular carcinoma in N-nitrosodiethylamine induced preneoplastic rat liver",
+        "source_page": "302-303"
+      },
+      {
+        "chemical_a": "Malachite green",
+        "chemical_b": "N-nitrosodiethylamine",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Hepatocellular carcinoma in rat liver",
+        "health_impact": "Liver cancer",
+        "confidence": 0.9,
+        "evidence": "these agents produce frank hepatocellular carcinoma in N-nitrosodiethylamine induced preneoplastic rat liver",
+        "source_page": "302-303"
+      }
+    ],
+    "extraction_accuracy": 90,
+    "evidence_quality": "High (direct causal wording)"
+  },
+  {
+    "paper_id": "Paper19",
+    "PMID": "https://doi.org/10.1007/s44339-024-00007-5",
+    "triplets": [
+      {
+        "chemical_a": "Sodium benzoate E211",
+        "chemical_b": "Vitamin C",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Benzene",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.96,
+        "evidence": "sodium benzoate has been associated with cancer due to the formation of benzene when combined with vitamin C in soft drinks",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Potassium bromate",
+        "chemical_b": "Rat kidney",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Kidney tumors and mesotheliomas",
+        "health_impact": "Carcinogenic",
+        "confidence": 0.9,
+        "evidence": "KBrO3 causes kidney tumors, peritoneal mesotheliomas, and thyroid follicular cell tumours",
+        "source_page": "2"
+      },
+      {
+        "chemical_a": "Caramel colour IV E150d",
+        "chemical_b": "4-Methylimidazole 4-MeI",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Chemical known to cause cancer or reproductive toxicity",
+        "health_impact": "Carcinogenic and reproductive toxicity",
+        "confidence": 0.9,
+        "evidence": "4-Methylimidazole (4-MeI)... categorizing it as a chemical known to cause cancer or reproductive toxicity",
+        "source_page": "2"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (clear causal/mechanistic phrases)"
+  },
+  {
+    "paper_id": "Paper20",
+    "PMID": "ISBN-978-92-4-004837-9",
+    "triplets": [
+      {
+        "chemical_a": "Benzoic acid",
+        "chemical_b": "Glycine",
+        "relationship": "DEPLETES",
+        "resultant": "Saturation of metabolic pathway",
+        "health_impact": "Toxicity (at high doses)",
+        "confidence": 0.9,
+        "evidence": "Because of saturation of this phase-II conjugation pathway with glycine, it was considered to be the most likely cause of any toxicity of benzoic acid at high levels of exposure.",
+        "source_page": "8"
+      },
+      {
+        "chemical_a": "Sodium benzoate",
+        "chemical_b": "Sunset yellow",
+        "relationship": "REPORTED_GENOTOXICITY (DISPUTED)",
+        "resultant": "Chromosomal aberration",
+        "health_impact": "Genotoxicity (Disputed by Committee)",
+        "confidence": 0.6,
+        "evidence": "Sodium benzoate in combination with sunset yellow... The authors reported positive findings for both targets... The Committee considered that this study was not suitable for evaluation of the genotoxicity",
+        "source_page": "12"
+      }
+    ],
+    "extraction_accuracy": 96,
+    "evidence_quality": "High (explicit causal statement)"
+  },
+  {
+    "paper_id": "Paper21",
+    "PMID": "10.1016/j.foodchem.2021.129910",
+    "triplets": [
+      {
+        "chemical_a": "Sodium metabisulfite",
+        "chemical_b": "HFFF2 human fibroblasts",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Caspase-dependent cell death",
+        "health_impact": "Cytotoxicity in normal human cells",
+        "confidence": 0.95,
+        "evidence": "SMB exerted this cytotoxic effect on HFFF2 cells through apoptosis induction",
+        "source_page": "2-3"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High"
+  },
+  {
+    "paper_id": "Paper22",
+    "PMID": "21185391",
+    "triplets": [
+      {
+        "chemical_a": "Sodium metabisulfite",
+        "chemical_b": "Mouse blood, liver and bone marrow cells",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "DNA strand breaks and micronuclei",
+        "health_impact": "Genotoxicity",
+        "confidence": 0.9,
+        "evidence": "high oral doses of SMB may pose a genotoxic risk",
+        "source_page": "59-60"
+      }
+    ],
+    "extraction_accuracy": 90,
+    "evidence_quality": "Moderate (clear genotoxic endpoint, apoptosis inferred)"
+  },
+  {
+    "paper_id": "Paper23",
+    "PMID": "19878537",
+    "triplets": [
+      {
+        "chemical_a": "Borax E285",
+        "chemical_b": "Human lymphocytes",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Reduced lymphocyte proliferation",
+        "health_impact": "Cytotoxicity in immune cells",
+        "confidence": 0.93,
+        "evidence": "immune cell proliferation (lymphocyte proliferation) was decreased when the concentrations of borax increased",
+        "source_page": "3-4"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (clear dose-dependent inhibition of proliferation)"
+  },
+  {
+    "paper_id": "Paper24",
+    "PMID": "39125662",
+    "triplets": [
+      {
+        "chemical_a": "Propionic acid",
+        "chemical_b": "Mouse brain astrocytes",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Gliosis and neuro-inflammation",
+        "health_impact": "Autism-like neuropathology",
+        "confidence": 0.9,
+        "evidence": "a PPA-rich diet in glia over-proliferation and neuro-inflammation mediated by the GPR41 receptor and PTEN/Akt pathway",
+        "source_page": "3-4,9-10"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High (clear mechanistic link to gliosis and inflammation)"
+  },
+  {
+    "paper_id": "Paper25",
+    "PMID": "22531301",
+    "triplets": [
+      {
+        "chemical_a": "Propionic acid",
+        "chemical_b": "Rat brain neurons",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Caspase-3 activation and DNA fragmentation",
+        "health_impact": "Neurotoxicity and autistic-like biochemical features",
+        "confidence": 0.95,
+        "evidence": "elevation of caspase3 and DNA fragmentation proved the pro-apoptotic and neurotoxic effect of PA to rat pups",
+        "source_page": "1-2,5-7"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (direct biochemical apoptotic markers reported)"
+  },
+  {
+    "paper_id": "Paper26",
+    "PMID": "38027328",
+    "triplets": [
+      {
+        "chemical_a": "Sodium hexametaphosphate E452",
+        "chemical_b": "Hen egg white lysozyme",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Amorphous protein aggregates and loss of solubility",
+        "health_impact": "Potential impairment of protein digestion and undesirable health issues",
+        "confidence": 0.9,
+        "evidence": "hexametaphosphate-induced HEWL aggregates were amorphous... may denature and aggregate proteins and may lead to undesirable health issues",
+        "source_page": "44086-44090"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (clear experimental aggregation and denaturation of HEWL by E452)"
+  },
+  {
+    "paper_id": "Paper27",
+    "PMID": "41501013",
+    "triplets": [
+      {
+        "chemical_a": "Potassium sorbate",
+        "chemical_b": "Fructose",
+        "relationship": "SYNERGISTIC_TOXICITY",
+        "resultant": "Altered liver function (steatosis, inflammation, fibrosis)",
+        "health_impact": "Metabolic dysfunction / Liver damage",
+        "confidence": 0.9,
+        "evidence": "Mouse model studies showed that coadministration of sorbate and fructose (a monosaccharide naturally found in many foods and drinks) leads to altered liver function (steatosis, inflammation, fibrosis) associated with altered expression of genes involved in lipid metabolism",
+        "source_page": "7"
+      },
+      {
+        "chemical_a": "N-nitrosodiethylamine",
+        "chemical_b": "Fat",
+        "relationship": "SYNERGISTIC_TOXICITY",
+        "resultant": "Insulin and IGF-1 resistance",
+        "health_impact": "Type 2 diabetes",
+        "confidence": 0.85,
+        "evidence": "co-exposure to N-nitrosodiethylamine (NDEA) and fat (found in nitrited-processed meat) causes INS and IGF-1 resistance associated with type 2 diabetes",
+        "source_page": "7"
+      },
+      {
+        "chemical_a": "Potassium sorbate",
+        "chemical_b": "Glucose",
+        "relationship": "ACTIVATES",
+        "resultant": "Advanced Glycation End products (AGEs)",
+        "health_impact": "Type 2 diabetes risk",
+        "confidence": 0.88,
+        "evidence": "Potassium sorbate specifically acts as an AGE activator with and without glucose, while high AGE intake is linked to type 2 diabetes",
+        "source_page": "7"
+      },
+      {
+        "chemical_a": "Vitamin C",
+        "chemical_b": "Vitamin E",
+        "relationship": "INCREASES",
+        "resultant": "Fasting blood glucose and insulin resistance",
+        "health_impact": "Hyperglycemia / Metabolic disruption",
+        "confidence": 0.8,
+        "evidence": "In a rodent study, chronic supplementations of pharmacological doses of vitamins C and E increased fasting blood glucose, insulin, and homoeostasis model assessment index for insulin resistance",
+        "source_page": "7-8"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High (direct mechanistic quotes from discussion section)"
+  },
+  {
+    "paper_id": "Paper28",
+    "PMID": "9607607",
+    "triplets": [
+      {
+        "chemical_a": "Propyl gallate",
+        "chemical_b": "Copper(II)",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "DNA single- and double-strand breaks via ROS",
+        "health_impact": "Genotoxicity and cytotoxicity in human fibroblasts",
+        "confidence": 0.9,
+        "evidence": "Our results demonstrate that the antioxidative and cytoprotective properties of propyl gallate may change to prooxidative, cytotoxic and genotoxic properties in the presence of Cu(II)",
+        "source_page": "972-977"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High"
+  },
+  {
+    "paper_id": "Paper29",
+    "PMID": "https://doi.org/10.1016/j.foodchem.2009.04.133",
+    "triplets": [
+      {
+        "chemical_a": "Sucralose",
+        "chemical_b": "Glycerol",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "3-monochloropropanediol and 1,2- and 1,3-dichloropropanols",
+        "health_impact": "Potentially toxic chloropropanols",
+        "confidence": 0.92,
+        "evidence": "pyrolysis of sucralose in the presence of glycerol generated significant amounts of 3-monochloropropanediol and 1,2- and 1,3-dichloropropanols",
+        "source_page": "56-59"
+      },
+      {
+        "chemical_a": "Sucralose",
+        "chemical_b": "Heat (high-temperature baking conditions)",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Hydrogen chloride (HCl) and chloropropanols from co\u2011ingredients such as glycerol",
+        "health_impact": "Exposure to toxic chloropropanols in baked products",
+        "confidence": 0.9,
+        "evidence": "sucralose completely degrades with the release of chloride ions at 180 \u00b0C ... can release hydrogen chloride in these products during baking that can react with glycerol generating various chloropropanols known for their toxicity",
+        "source_page": "56-60"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (explicit pyrolysis data and mechanistic description of HCl release and chloropropanol formation)"
+  },
+  {
+    "paper_id": "Paper30",
+    "PMID": "22847138",
+    "triplets": [
+      {
+        "chemical_a": "Erythrosine B E127",
+        "chemical_b": "HepG2 liver cells",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "DNA damage and increased micronuclei frequency",
+        "health_impact": "Genotoxicity and mutagenicity (potential carcinogenic risk)",
+        "confidence": 0.9,
+        "evidence": "results showed genotoxicity at the two highest concentrations and mutagenicity at six concentrations",
+        "source_page": "3447-3450"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (clear comet and CBMN-Cyt data showing DNA damage and micronuclei in HepG2 cells)"
+  },
+  {
+    "paper_id": "Paper31",
+    "PMID": "37719200",
+    "triplets": [
+      {
+        "chemical_a": "Red 40 (Allura Red AC)",
+        "chemical_b": "DNA in colon epithelial cells",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "DNA damage with increased p53 and phospho\u2011p53",
+        "health_impact": "Early-onset colorectal cancer risk via mutagenesis",
+        "confidence": 0.92,
+        "evidence": "Our results show that Red 40 damages DNA both in vitro and in vivo",
+        "source_page": "221-222"
+      },
+      {
+        "chemical_a": "Red 40 (Allura Red AC)",
+        "chemical_b": "Gut microbiome under high\u2011fat diet",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Dysbiosis with increased Actinobacteria, Firmicutes, Proteobacteria and reduced Bacteroidetes, Verrucomicrobia",
+        "health_impact": "Low-grade colonic inflammation and colorectal carcinogenesis",
+        "confidence": 0.9,
+        "evidence": "consumption of Red 40 in the presence of a high-fat diet for 10 months leads to dysbiosis and low-grade colonic inflammation in mice",
+        "source_page": "221-222, 229-230"
+      },
+      {
+        "chemical_a": "Red 40 (Allura Red AC)",
+        "chemical_b": "p53 in colon epithelial cells",
+        "relationship": "INHIBITS_GROWTH",
+        "resultant": "Functional p53 mutation and activation of DNA damage response",
+        "health_impact": "Dysregulation of key players involved in EOCRC development",
+        "confidence": 0.9,
+        "evidence": "we observed that p53 is functionally mutated by Red 40 in the backdrop of consuming either a LFD and a HFD",
+        "source_page": "223, 226-227"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (clear comet assay data, organoid p53 mutation readout, and explicit dysbiosis/inflammation description)"
+  },
+  {
+    "paper_id": "Paper32",
+    "PMID": "29797408",
+    "triplets": [
+      {
+        "chemical_a": "Quinoline Yellow E104",
+        "chemical_b": "Human serum albumin",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "QY\u2013HSA complex formation with conformational changes and decreased surface hydrophobicity and free sulfhydryl groups",
+        "health_impact": "Altered transport and structural/functional properties of HSA, contributing to quinoline yellow toxicity in biological processes",
+        "confidence": 0.9,
+        "evidence": "This work showed that QY could bind to HSA and affect the structural and functional properties of this protein",
+        "source_page": "1-4"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (clear description of QY\u2013HSA complex formation, binding site, and induced structural changes)"
+  },
+  {
+    "paper_id": "Paper33",
+    "PMID": "40059972",
+    "triplets": [
+      {
+        "chemical_a": "Carmoisine E122",
+        "chemical_b": "Human peripheral lymphocyte DNA",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Chromosome aberrations, increased sister chromatid exchanges, increased comet tail length at 300 \u03bcg/mL",
+        "health_impact": "Genotoxicity via structural chromosomal damage at high concentrations",
+        "confidence": 0.9,
+        "evidence": "it was observed that only the highest concentration significantly increased the frequencies of CA and SCE... Carmoisine increased tail length only at the highest concentration",
+        "source_page": "1-2, 4-8"
+      },
+      {
+        "chemical_a": "Ponceau 4R E124",
+        "chemical_b": "Human peripheral lymphocyte DNA",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Chromosome aberrations, increased sister chromatid exchanges, increased comet tail length (150, 300 \u03bcg/mL) and tail moment at 300 \u03bcg/mL",
+        "health_impact": "Genotoxicity via DNA damage and chromosomal instability at high concentrations",
+        "confidence": 0.9,
+        "evidence": "only the highest concentration significantly increased the frequencies of CA and SCE... Ponceau 4R increased tail length at the two highest concentrations. Ponceau 4R also increased tail moment only at the highest concentration",
+        "source_page": "1-2, 4-8"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (multiple concordant endpoints: CA, SCE, CBMN-Cyt, comet in human lymphocytes)"
+  },
+  {
+    "paper_id": "Paper34",
+    "PMID": "2836348",
+    "triplets": [
+      {
+        "chemical_a": "Erythrosine Red 3",
+        "chemical_b": "N-bis(2-hydroxypropyl)nitrosamine (DHPN)",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Thyroid follicular adenomas and carcinomas in partially thyroidectomized rats",
+        "health_impact": "Promotes thyroid tumor development after nitrosamine initiation under elevated TSH",
+        "confidence": 0.9,
+        "evidence": "Red 3 and Red 105 significantly promoted the development of thyroid tumors in thyroidectomized rats given DHPN",
+        "source_page": "314-316"
+      },
+      {
+        "chemical_a": "Rose Bengal B Red 105",
+        "chemical_b": "N-bis(2-hydroxypropyl)nitrosamine (DHPN)",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Thyroid follicular adenomas and carcinomas in partially thyroidectomized rats",
+        "health_impact": "Strong promotion of thyroid tumorigenesis after DHPN initiation (100% tumor incidence)",
+        "confidence": 0.9,
+        "evidence": "Red 3 and Red 105 significantly promoted the development of thyroid tumors in thyroidectomized rats given DHPN",
+        "source_page": "314-316"
+      },
+      {
+        "chemical_a": "Erythrosine Red 3",
+        "chemical_b": "Thyroid-stimulating hormone (TSH)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Elevated serum TSH and thyroid enlargement in partially thyroidectomized rats",
+        "health_impact": "Endocrine disruption leading to goitrogenic stimulus for thyroid tumor promotion",
+        "confidence": 0.88,
+        "evidence": "Serum TSH was 5.5\u00b13.1 ng/ml in rats with partial thyroidectomy, Red 3 and DHPN, and 1.5\u00b10.5 ng/ml in rats with partial thyroidectomy and DHPN",
+        "source_page": "314-317"
+      }
+    ],
+    "extraction_accuracy": 96,
+    "evidence_quality": "High (clear experimental design, quantified tumor incidences, and hormone changes)"
+  },
+  {
+    "paper_id": "Paper35",
+    "PMID": "23132362",
+    "triplets": [
+      {
+        "chemical_a": "Amaranth E123",
+        "chemical_b": "Saccharomyces cerevisiae DNA",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "DNA strand breaks detected as increased comet tail length at \u22651250 \u00b5g/mL and 37\u00b0C",
+        "health_impact": "Genotoxicity in yeast model at high concentrations and elevated temperature",
+        "confidence": 0.9,
+        "evidence": "Amaranth (E123) ... were found to exhibit their genotoxic effect directly in Saccharomyces cerevisiae",
+        "source_page": "22-24"
+      },
+      {
+        "chemical_a": "Allura Red E129",
+        "chemical_b": "Saccharomyces cerevisiae DNA",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "DNA strand breaks with concentration- and time-dependent increase in comet tail length at \u22651250 \u00b5g/mL and 37\u00b0C",
+        "health_impact": "Genotoxicity in yeast model at high concentrations and elevated temperature",
+        "confidence": 0.9,
+        "evidence": "Allura red (E129) were found to exhibit their genotoxic effect directly in Saccharomyces cerevisiae",
+        "source_page": "22-25"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (well-described comet assay with clear dose and temperature thresholds)"
+  },
+  {
+    "paper_id": "Paper36",
+    "PMID": "27430014",
+    "triplets": [
+      {
+        "chemical_a": "Polysorbate 80 (P-80)",
+        "chemical_b": "Mouse gut microbiota",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Microbial dysbiosis with increased Gram-positive Clostridium cluster XI/XIV, Helicobacter, Campylobacter jejuni, Salmonella spp. and Porphyromonadaceae, decreased Bacteroides",
+        "health_impact": "Promotes metabolic syndrome, obesity and NAFLD via altered microbiota composition",
+        "confidence": 0.9,
+        "evidence": "Meta 16S rRNA gene sequencing analysis of the intestinal microbiota revealed that the percentage of Gram-positive bacterial strains... was increased in P-80 fed mice compared to the control",
+        "source_page": "5-7, 17-18"
+      },
+      {
+        "chemical_a": "Polysorbate 80 (P-80)",
+        "chemical_b": "Intestinal mucus barrier (Muc2 and SCFA)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Reduced Muc2 mRNA expression (~40%), reduced mucus thickness, increased FITC\u2013dextran permeability, decreased fecal acetate, propionate and butyrate",
+        "health_impact": "Increased gut permeability and low-grade intestinal inflammation",
+        "confidence": 0.92,
+        "evidence": "In P-80 fed mice, Muc2 mRNA expression is significantly decreased (40%)... P-80 fed mice had significant reduction in acetate, propionate and butyrate concentrations in fecal samples",
+        "source_page": "5-7, 15-16"
+      },
+      {
+        "chemical_a": "Polysorbate 80 (P-80)",
+        "chemical_b": "Deoxycholic acid (DCA)",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Increased serum DCA produced by Clostridium cluster XI/XIV",
+        "health_impact": "DCA causes mitochondrial oxidative stress and DNA damage, associated with NAFLD development",
+        "confidence": 0.9,
+        "evidence": "We found that the level of Deoxycholic Acid (DCA)... was significantly increased... Deoxycholic acid is known to cause DNA damage through reactive oxygen species production",
+        "source_page": "6-7, 9"
+      }
+    ],
+    "extraction_accuracy": 95,
+    "evidence_quality": "High (multiple converging readouts: microbiota 16S, permeability, inflammatory markers, bile acids, liver histology)"
+  },
+  {
+    "paper_id": "Paper37",
+    "PMID": "17095757",
+    "triplets": [
+      {
+        "chemical_a": "Lambda-carrageenan (\u03bb-carrageenan)",
+        "chemical_b": "Normal human colonic epithelial cells (NCM460 and primary colonic epithelium)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Activation of NF-\u03baB with increased phospho-I\u03baB\u03b1, nuclear p65, IL-8 promoter activation and ~2-fold increase in IL-8 secretion at 1 \u00b5g/mL",
+        "health_impact": "Pro-inflammatory signaling in normal human colonic epithelium at dietary-relevant concentrations",
+        "confidence": 0.92,
+        "evidence": "We demonstrate that \u03bbCGN at low dose (1 \u00b5g/ml) triggers an inflammatory cascade in normal human colonic epithelial cells\u2026 resulting in significantly increased IL-8 production",
+        "source_page": "G829-G831, G833-G835"
+      },
+      {
+        "chemical_a": "Lambda-carrageenan (\u03bb-carrageenan)",
+        "chemical_b": "Bcl10 (CARD-containing adaptor protein)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Upregulation of Bcl10 mRNA and protein; Bcl10 knockdown reduces carrageenan-induced phospho-I\u03baB\u03b1 (~50%) and abolishes IL-8 increase",
+        "health_impact": "Bcl10-dependent inflammatory cascade linking carrageenan exposure to NF-\u03baB\u2013driven chemokine production",
+        "confidence": 0.9,
+        "evidence": "Knockdown of Bcl10 by siRNA markedly reduced the increase in IL-8 that followed carrageenan exposure in the NCM460 cells",
+        "source_page": "G830-G831, G833-G836"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (clear causal chain: \u03bb-carrageenan \u2192 Bcl10 \u2191 \u2192 I\u03baB\u03b1 phosphorylation \u2191 \u2192 NF-\u03baB nuclear translocation \u2192 IL-8 transcription and secretion)"
+  },
+  {
+    "paper_id": "Paper38",
+    "PMID": "34774538",
+    "triplets": [
+      {
+        "chemical_a": "Carboxymethylcellulose (CMC)",
+        "chemical_b": "Human gut microbiota",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Altered microbiota composition with reduced diversity and loss of Faecalibacterium prausnitzii and Ruminococcus spp., alongside increased Roseburia spp. and Lachnospiraceae",
+        "health_impact": "Microbiota dysbiosis linked to chronic inflammatory and metabolic diseases",
+        "confidence": 0.9,
+        "evidence": "CMC consumption modestly increased postprandial abdominal discomfort and perturbed gut microbiota composition in a way that reduced its diversity",
+        "source_page": "2-3, 9-10, 20-21"
+      },
+      {
+        "chemical_a": "Carboxymethylcellulose (CMC)",
+        "chemical_b": "Fecal metabolome (short-chain fatty acids and amino acids)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Depletion of microbiota-related metabolites including short-chain fatty acids and essential/free amino acids in stool during CMC feeding",
+        "health_impact": "Loss of health-promoting microbial metabolites associated with chronic inflammatory disease risk",
+        "confidence": 0.9,
+        "evidence": "CMC-fed subjects exhibited changes in the fecal metabolome, particularly reductions in short-chain fatty acids and free amino acids",
+        "source_page": "2-3, 10, 23"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High (randomized controlled-feeding design with daily microbiota and metabolome measurements)"
+  },
+  {
+    "paper_id": "Paper39",
+    "PMID": "38349899",
+    "triplets": [
+      {
+        "chemical_a": "Mono- and diglycerides of fatty acids (E471)",
+        "chemical_b": "Human cancer risk (overall, breast, prostate)",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Increased incidence of overall cancer, breast cancer, and prostate cancer in high consumers versus low consumers",
+        "health_impact": "Higher risks of overall cancer (HR 1.15), breast cancer (HR 1.24), and prostate cancer (HR 1.46) in a large prospective cohort",
+        "confidence": 0.9,
+        "evidence": "Higher intakes of mono- and diglycerides of fatty acids (FAs) (E471) were associated with higher risks of overall cancer\u2026 breast cancer\u2026 and prostate cancer",
+        "source_page": "1-2, 8-10, 14"
+      },
+      {
+        "chemical_a": "Carrageenan (E407, E407a)",
+        "chemical_b": "Human breast cancer risk",
+        "relationship": "FORMS_CARCINOGEN",
+        "resultant": "Increased incidence of overall and pre/postmenopausal breast cancer in high consumers versus low consumers",
+        "health_impact": "Higher risks of breast cancer with total carrageenans (HR 1.32) and carrageenan E407 alone (HR 1.28)",
+        "confidence": 0.9,
+        "evidence": "Associations with breast cancer risk were observed for higher intakes of total carrageenans (E407 and E407a)\u2026 and carrageenan (E407)",
+        "source_page": "1-2, 8-10, 14-15"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High (large prospective cohort, detailed additive intake, consistent associations across multiple sensitivity analyses for E471 and carrageenans)"
+  },
+  {
+    "paper_id": "Paper40",
+    "PMID": "24997231",
+    "triplets": [
+      {
+        "chemical_a": "Locust bean gum",
+        "chemical_b": "Calcium",
+        "relationship": "DECREASES_ABSORPTION",
+        "resultant": "Reduced mineral bioavailability",
+        "health_impact": "Nutritional deficiency risk (though noted as not statistically significant in clinical context)",
+        "confidence": 0.85,
+        "evidence": "In vitro studies have suggested that LBG could negatively modify the absorption efficiency of some minerals... compared to the non-thickened infant formulas and under the in vitro conditions used, the availability of calcium, iron, and zinc could be decreased in products thickened with locust bean gum",
+        "source_page": "161"
+      },
+      {
+        "chemical_a": "Locust bean gum",
+        "chemical_b": "Iron",
+        "relationship": "DECREASES_ABSORPTION",
+        "resultant": "Reduced mineral bioavailability",
+        "health_impact": "Nutritional deficiency risk (though noted as not statistically significant in clinical context)",
+        "confidence": 0.85,
+        "evidence": "compared to the non-thickened infant formulas and under the in vitro conditions used, the availability of calcium, iron, and zinc could be decreased in products thickened with locust bean gum",
+        "source_page": "161"
+      },
+      {
+        "chemical_a": "Locust bean gum",
+        "chemical_b": "Zinc",
+        "relationship": "DECREASES_ABSORPTION",
+        "resultant": "Reduced mineral bioavailability",
+        "health_impact": "Nutritional deficiency risk (though noted as not statistically significant in clinical context)",
+        "confidence": 0.85,
+        "evidence": "compared to the non-thickened infant formulas and under the in vitro conditions used, the availability of calcium, iron, and zinc could be decreased in products thickened with locust bean gum",
+        "source_page": "161"
+      },
+      {
+        "chemical_a": "Locust bean gum",
+        "chemical_b": "Glucose",
+        "relationship": "DECREASES_ABSORPTION",
+        "resultant": "Flattening of postprandial serum glucose response",
+        "health_impact": "Hypoglycemia (rebound)",
+        "confidence": 0.9,
+        "evidence": "demonstrated a flattening of the post prandial serum glucose response in adult male Sprague\u2013Dawley rats when ingesting LBG... In general, a dose-dependent decrease in glucose serum concentration and a decrease in the subsequent rebound to hypoglycaemia after dosing were observed.",
+        "source_page": "166"
+      }
+    ],
+    "extraction_accuracy": 86,
+    "evidence_quality": "Not applicable (no qualifying chemical\u2013chemical interaction statements in this paper under the defined schema)"
+  },
+  {
+    "paper_id": "Paper41",
+    "PMID": "PMC9194036",
+    "triplets": [
+      {
+        "chemical_a": "Guar gum",
+        "chemical_b": "Gut microbiota metabolites (branched-chain amino acids and butyrate)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Elevated branched-chain amino acids and reduced butyrate with altered microbiota community structure",
+        "health_impact": "Increased susceptibility to acute and chronic colitis with more rectal bleeding, diarrhea, splenomegaly and higher SAA and Lcn2",
+        "confidence": 0.9,
+        "evidence": "GuD-fed mice\u2026 revealed elevated branched chain amino acids and reduced butyrate\u2026 and exhibited increased susceptibility to both acute and chronic colitis",
+        "source_page": "1"
+      }
+    ],
+    "extraction_accuracy": 95,
+    "evidence_quality": "High (clear diet\u2013microbiota\u2013metabolite\u2013colitis links with rescue by antibiotics and IL-18)"
+  },
+  {
+    "paper_id": "Paper42",
+    "PMID": "18258154",
+    "triplets": [
+      {
+        "chemical_a": "Soy lecithin",
+        "chemical_b": "Peanut/soy allergens",
+        "relationship": "TRIGGERS_ALLERGY",
+        "resultant": "Type I hypersensitivity",
+        "health_impact": "Severe allergic reactions and anaphylaxis",
+        "confidence": 0.94,
+        "evidence": "Drug products containing soy lecithin can cause severe allergic reactions in patients allergic to peanuts or soy",
+        "source_page": "27-30"
+      }
+    ],
+    "extraction_accuracy": 96,
+    "evidence_quality": "High"
+  },
+  {
+    "paper_id": "Paper43",
+    "PMID": "32625453",
+    "triplets": [
+      {
+        "chemical_a": "Acacia gum E414 (gum arabic)",
+        "chemical_b": "Human gut microbiota",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Partial fermentation to short-chain fatty acids without systemic absorption or adverse toxicological effects at up to 7,500 mg/kg bw/day in mice and 2,500 mg/kg bw/day in rats",
+        "health_impact": "No safety concern identified for general population at refined exposure levels; high intakes up to 30 g/day only caused flatulence",
+        "confidence": 0.9,
+        "evidence": "Acacia gum is unlikely to be absorbed intact and is slightly fermented by intestinal microbiota\u2026 No adverse effects were reported in subchronic and carcinogenicity studies at the highest dose tested",
+        "source_page": "3-5, 27-29, 32-38"
+      }
+    ],
+    "extraction_accuracy": 92,
+    "evidence_quality": "High (comprehensive EFSA toxicological and exposure assessment with clear statements on microbiota fermentation, doses, and lack of adverse effects)"
+  },
+  {
+    "paper_id": "Paper44",
+    "PMID": "35892789",
+    "triplets": [
+      {
+        "chemical_a": "Carboxymethylcellulose E466",
+        "chemical_b": "Gut microbiota (human/murine)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Altered microbiota diversity and gene expression, reduced mucus thickness and increased intestinal permeability, with microbiota encroachment and proinflammatory signaling",
+        "health_impact": "Promotes low-grade intestinal inflammation and metabolic endotoxemia, aggravating features of metabolic syndrome in animal and human studies",
+        "confidence": 0.93,
+        "evidence": "CMC and P80 impact the intestinal barrier and structural properties of the mucus, which may contribute to the development of intestinal inflammation",
+        "source_page": "8-10"
+      },
+      {
+        "chemical_a": "Polysorbate 80 E433",
+        "chemical_b": "Gut microbiota (murine)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Microbiota encroachment, reduced mucus thickness, increased Proteobacteria and Escherichia coli, reduced Bacteroides and Clostridia, elevated LPS and flagellin",
+        "health_impact": "Induces intestinal inflammation, obesity, NAFLD and metabolic syndrome features (altered glycemic tolerance, hyperinsulinemia, elevated liver enzymes) in mice",
+        "confidence": 0.94,
+        "evidence": "Dietary emulsifiers\u2026 impact the mouse gut microbiota promoting colitis and metabolic syndrome",
+        "source_page": "8-9, 15"
+      },
+      {
+        "chemical_a": "Carrageenans E407",
+        "chemical_b": "Intestinal epithelial tight-junction proteins (actin, ZO-1)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Disruption of intercellular junctions and increased intestinal permeability, activation of proinflammatory pathways",
+        "health_impact": "Favors leaky gut and chronic low-grade inflammation associated with metabolic syndrome and IBD-like lesions in animal models",
+        "confidence": 0.9,
+        "evidence": "Carrageenan could disrupt the intercellular junctions acting on actin filament and the zonula occludens-1 [ZO-1] proteins",
+        "source_page": "9, 13"
+      },
+      {
+        "chemical_a": "Maltodextrin",
+        "chemical_b": "Escherichia coli strains",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Enhanced E. coli adhesion and biofilm formation on the intestinal surface",
+        "health_impact": "Promotes dysbiosis and may contribute to inflammatory bowel disease and metabolic endotoxemia in susceptible hosts",
+        "confidence": 0.9,
+        "evidence": "Maltodextrin\u2026 has a direct effect on gut microbiota, enhancing cell adhesion and biofilm formation through the stimulation of multiple E. coli strains",
+        "source_page": "8"
+      },
+      {
+        "chemical_a": "Glycerol monolaurate E471",
+        "chemical_b": "Gut microbiota (low\u2011fat vs high\u2011fat diet mice)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Dose\u2011 and diet\u2011dependent dysbiosis with decreased Akkermansia, Bifidobacterium, Lactobacillus and increased Escherichia coli, Lactococcus, Flexispira at certain doses; at higher doses in HFD, enrichment of SCFA\u2011producing taxa",
+        "health_impact": "At low dose in low\u2011fat diet causes low\u2011grade systemic inflammation and metabolic syndrome features; at high dose in HFD attenuates metabolic disorders and improves insulin sensitivity",
+        "confidence": 0.9,
+        "evidence": "Low-dose dietary GML\u2026 could also cause low-grade systematic inflammation and gut microbiota dysbiosis\u2026 high-dose GML supplementation\u2026 could attenuate the high-fat diet (HFD)-induced metabolic disorders",
+        "source_page": "9-12, 14-15"
+      }
+    ],
+    "extraction_accuracy": 93,
+    "evidence_quality": "High for mechanistic links in animal and in vitro models (clear quotes on microbiota shifts, barrier disruption, metabolic outcomes); moderate for human data where effects are subtler and doses supraphysiologic (e.g., 15 g/day CMC pilot trial)"
+  },
+  {
+    "paper_id": "Paper45",
+    "PMID": "23606053",
+    "triplets": [
+      {
+        "chemical_a": "Citric acid",
+        "chemical_b": "Mouse liver tissue",
+        "relationship": "INDUCES_APOPTOSIS",
+        "resultant": "Hepatocyte necrosis, cytoplasmic vacuolization, karyopyknosis, DNA laddering and elevated caspase-3 activity",
+        "health_impact": "Oxidative liver damage with decreased T-SOD and GSH-Px, increased MDA, histopathological injury in a dose-dependent manner",
+        "confidence": 0.93,
+        "evidence": "Certain concentrations of CA cause oxidative damage of the liver\u2026 resulting in MDA level elevation and DNA fragmentation inducing active caspase-3",
+        "source_page": "275-280"
+      }
+    ],
+    "extraction_accuracy": 96,
+    "evidence_quality": "High (clear graded-dose mouse study linking citric acid to oxidative stress markers, caspase-3 activation, DNA laddering and histological liver damage with direct quotes)"
+  },
+  {
+    "paper_id": "Paper46",
+    "PMID": "40068898",
+    "triplets": [
+      {
+        "chemical_a": "Glycerol E422",
+        "chemical_b": "Young children consuming slush ice drinks",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Acute glycerolaemia with glyceroluria, osmotic and metabolic disturbance (pseudohypertriglyceridaemia, hypokalaemia, lactic acidosis, elevated FFA:3-OHB ratio)",
+        "health_impact": "Glycerol intoxication syndrome characterised by decreased consciousness, hypoglycaemia, lactic acidosis and metabolic decompensation mimicking inherited metabolic diseases",
+        "confidence": 0.94,
+        "evidence": "Consumption of slush ice drinks containing glycerol may cause a clinical syndrome of glycerol intoxication in young children, characterised by decreased consciousness, hypoglycaemia, lactic acidosis, pseudohypertriglyceridaemia and hypokalaemia",
+        "source_page": "1-4"
+      }
+    ],
+    "extraction_accuracy": 96,
+    "evidence_quality": "High (21-child case series with consistent temporal link to glycerol-containing slush drinks and characteristic biochemical phenotype; clear quoted description of syndrome)"
+  },
+  {
+    "paper_id": "Paper47",
+    "PMID": "22334826",
+    "triplets": [
+      {
+        "chemical_a": "Inorganic phosphate food additives (E339, E340, E341, E450, E451, E452)",
+        "chemical_b": "Human cardiovascular system (vessels, endothelium)",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Endothelial dysfunction, vascular smooth muscle osteogenic transdifferentiation and vascular calcification",
+        "health_impact": "Increased cardiovascular morbidity and mortality in CKD patients and in general population at high-normal serum phosphate levels",
+        "confidence": 0.93,
+        "evidence": "The main pathophysiological effect of phosphate is vascular damage, e.g. endothelial dysfunction and vascular calcification",
+        "source_page": "49-52"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High for epidemiological association and mechanistic vascular data, but based mainly on observational cohorts and experimental models rather than randomized trials"
+  },
+  {
+    "paper_id": "Paper48",
+    "PMID": "34112173",
+    "triplets": [
+      {
+        "chemical_a": "Silicon dioxide nanoparticles (SiO2NPs, E551)",
+        "chemical_b": "Gut\u2013brain axis",
+        "relationship": "DISRUPTS_BARRIER",
+        "resultant": "Neurobehavioral impairments and brain damage in young mice after 28\u2011day oral exposure, suggesting potential neurotoxic risk of foodborne SiO2NPs in children",
+        "health_impact": "Neurobehavioral impairments",
+        "confidence": 0.93,
+        "evidence": "SiO2NPs significantly caused the spatial learning and memory impairments\u2026 damaged tissue integrity\u2026 increased abundances of Firmicutes and Patescibacteria",
+        "source_page": "1-3, 7-8, 12-16"
+      }
+    ],
+    "extraction_accuracy": 94,
+    "evidence_quality": "High for controlled in vivo mouse data"
+  },
+  {
+    "paper_id": "Paper49",
+    "PMID": "2269236",
+    "triplets": [
+      {
+        "chemical_a": "Potassium bromate",
+        "chemical_b": "Methyl linolenate",
+        "relationship": "INDUCES_LIPID_PEROXIDATION",
+        "resultant": "8-Hydroxydeoxyguanosine (8-OH-dG)",
+        "health_impact": "DNA damage leading to Carcinogenesis (Renal tumors)",
+        "confidence": 0.9,
+        "evidence": "KBrO3 produced LPO from methyl linolenate, which resulted in the increased formation of 8-OH-dG",
+        "source_page": "329"
+      }
+    ],
+    "extraction_accuracy": 98,
+    "evidence_quality": "High (direct quotes)"
+  }
+]
