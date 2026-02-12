@@ -130,3 +130,5 @@ M.Tech AI Final Year Project - Neuro-Symbolic Food Safety
 [63]	Diao, Jun et al. “Silicon dioxide nanoparticles induced neurobehavioral impairments by disrupting microbiota-gut-brain axis.” Journal of Nanobiotechnology vol. 19,1 174. 10 Jun. 2021. doi:10.1186/s12951-021-00916-2
 
 [64]	Kurokawa, Y et al. “Toxicity and carcinogenicity of potassium bromate—a new renal carcinogen.” Environmental Health Perspectives vol. 87 (1990): 309-35. doi:10.1289/ehp.9087309
+
+[65] CHEMKGRAPH: https://gist.github.com/Ashwath0102/41f2deb5eedcebb7e5aabe2c03ced243
